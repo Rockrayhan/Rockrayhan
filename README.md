@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://rishavchanda.io)
+[![MasterHead](https://ibb.co/vDKXtX9)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Khayrul Alam Rayhan</h1>
 <h3 align="center">Love to take challenges and work with new technologies.</h3>
