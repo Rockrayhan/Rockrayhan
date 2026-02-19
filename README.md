@@ -8,13 +8,13 @@
 
 
 
-- 🔭 I’m currently working on [E-learning(LMS)](https://lms.wdpf55.xyz/)
+- 🔭 I’m currently working on [Library Management System(LMS)](https://lms-nextjs-frontend.vercel.app/)
 
 - 🌱 I’m currently learning **Next js, Redux, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://khayrul-alam-portfo.netlify.app/](https://khayrul-alam-portfo.netlify.app/)
+- 👨‍💻 My Portfolio -> [https://khayrul-alam-portfo.netlify.app/](https://khayrul-alam-portfo.netlify.app/)
 
-- 💬 Ask me about **react , laravel**
+- 💬 Ask me about **React js , Laravel**
 
 - 📫 How to reach me **khayrulalamdict@gmail.com**
 
