@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next js, Redux, TypeScript**
 
-- 👨‍💻 My Portfolio -> [https://khayrul-alam-portfo.netlify.app/](https://khayrul-alam-portfo.netlify.app/)
+- 👨‍💻 My Portfolio  [https://khayrul-alam-portfo.netlify.app/](https://khayrul-alam-portfo.netlify.app/)
 
 - 💬 Ask me about **React js , Laravel**
 
