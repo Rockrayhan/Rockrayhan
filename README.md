@@ -20,15 +20,15 @@
 
 - ⚡ Fun fact **Part time coder full time gamer.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">
+  Connect with me :
   <a href="https://linkedin.com/in/khayrul-alam" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://fb.com/k.a.rockrayhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@khayrulalamdict" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" />
   </a>
-</p>
+  <a href="https://fb.com/k.a.rockrayhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="20" />
+  </a>
+  <a href="https://medium.com/@khayrulalamdict" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="20" />
+  </a>
+</h3>
